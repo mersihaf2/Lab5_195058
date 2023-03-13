@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "708369039848",
+      "firebase_url": "https://studentorganizer-10243-default-rtdb.firebaseio.com",
+      "project_id": "studentorganizer-10243",
+      "storage_bucket": "studentorganizer-10243.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:708369039848:android:ef59b380a658663ecd245d",
+          "android_client_info": {
+            "package_name": "com.example.studentorganizer2"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "708369039848-hetdmcdfm1ba8qrsatttt3126sucjcq6.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCgwMLw2jFt1I4y1JlBdKn3XPdCVS3rIG4"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "708369039848-hetdmcdfm1ba8qrsatttt3126sucjcq6.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
